@@ -27,3 +27,5 @@
     - Chapters
     - Verses
     - Doctrine
+    - Biblical Hebrew 
+    - Koine Greek
